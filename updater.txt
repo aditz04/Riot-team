@@ -1,7 +1,7 @@
 {
   "riot_update": [
     {
- "version":"5.75.1",
+ "version":"5.74.1",
  "title":"Update Tersedia",
  "description":"TheRiot's tampans🤓 InDriver recommends that you
 update to the latest version 5.74.1 You
