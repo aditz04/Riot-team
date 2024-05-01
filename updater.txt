@@ -1,13 +1,13 @@
 {
   "riot_update": [
     {
- "version":"5.75.0",
+ "version":"5.76.0",
  "title":"Update Tersedia",
  "description":"TheRiot's tampans🤓 InDriver recommends that you
-update to the latest version 5.75.0 You
+update to the latest version 5.76.0 You
 can keep online the app while
 downloading the update.",
-"download":"https://drive.google.com/file/d/12iaJS9RwOpRp0WfewzhLMssrqaaXBnKz/view?usp=drivesdk"
+"download":"https://drive.google.com/file/d/147DGiTPbDyruD6kGnFGzWN7wQYUsUAdW/view?usp=drivesdk"
 }
   ]
 }
